@@ -5,9 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="SearchWorker.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AdvertApi.Models" Version="1.1.0" />
     <PackageReference Include="Amazon.Lambda.Core" Version="1.0.0" />
     <PackageReference Include="Amazon.Lambda.Serialization.Json" Version="1.4.0" />
     <PackageReference Include="Amazon.Lambda.SNSEvents" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.0.0-preview.18572.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="3.0.0-preview.18572.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0-preview.18572.1" />
+    <PackageReference Include="NEST" Version="6.4.1" />
   </ItemGroup>
 
 </Project>
