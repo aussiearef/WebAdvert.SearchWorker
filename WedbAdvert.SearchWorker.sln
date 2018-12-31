@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WedbAdvert.SearchWorker", "WedbAdvert.SearchWorker\WedbAdvert.SearchWorker.csproj", "{F35913F8-3FF5-4389-8A9D-610D0BA6088A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35913F8-3FF5-4389-8A9D-610D0BA6088A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35913F8-3FF5-4389-8A9D-610D0BA6088A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35913F8-3FF5-4389-8A9D-610D0BA6088A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35913F8-3FF5-4389-8A9D-610D0BA6088A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3470A5C3-19B2-4529-9D14-CFD4DFBA2633}
+	EndGlobalSection
+EndGlobal
